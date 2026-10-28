@@ -1,0 +1,17 @@
+NOT FOR PRODUCTION
+==================
+
+This folder is the earlier draft e-label pack. It is archived so the files are
+not lost. Do not print these QR codes, publish these HTML files, or use these
+nutrition figures on labels or on www.bluecrane.co.za.
+
+The QR images here encode placeholder URLs on yourdomain.com, for example
+https://yourdomain.com/elabel/bluecrane-shiraz-2022. The energy values in
+README.txt are older estimates and differ from the print pack.
+
+Production source of truth is at the repository root:
+
+  elabels/
+  qrcodes/
+  Blue_Crane_Wine_Ingredient_QR_Codes.pdf
+  README.md
